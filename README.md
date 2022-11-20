@@ -5,8 +5,6 @@
 
 <img align="right" alt="ANI_GIF" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScP4KQpEbf0Datu-cc4_NceT0PY7-U71eTkI0U-S1vbb4koA04Q3whws5XLIXJLHhDzi8&usqp=CAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush09joshi&label=Profile%20views&color=0e75b6&style=flat" alt="ayush09joshi" /> </p>
-
 <p align="left"> <a href="https://twitter.com/ayushjo55786272" target="blank"><img src="https://img.shields.io/twitter/follow/ayushjo55786272?logo=twitter&style=for-the-badge" alt="ayushjo55786272" /></a> </p>
 
 - 🌱 I’m currently learning **React, Next**
